@@ -5,8 +5,8 @@ Prometheus exporter for various Hyper-V metrics.
 ## Installation
 
 ```bash
-git clone https://github.com/cloudyd3/lst_utils.git
-cd lst_utils
+git clone https://github.com/cloudyd3/hyper-v-exporter.git
+cd hyper-v-exporter
 poetry install
 ```
 ## WMI classes coverage
